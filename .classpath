@@ -1,0 +1,13 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/org/jdesktop/beansbinding/1.2.1/beansbinding-1.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-jexl/2.1.1/commons-jexl-2.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/persistence/eclipselink/2.4.0/eclipselink-2.4.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/persistence/javax.persistence/2.0.4.v201112161009/javax.persistence-2.0.4.v201112161009.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/metawidget/modules/metawidget-all/2.5/metawidget-all-2.5.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+</classpath>
